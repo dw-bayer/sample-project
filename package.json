@@ -94,7 +94,7 @@
     "react-scripts": "^3.4.1",
     "redux-devtools-extension": "^2.13.8",
     "redux-saga-test-plan": "^4.0.0-rc.3",
-    "run-node": "^1.0.0",
+    "run-node": "^2.0.0",
     "source-map-explorer": "^1.8.0",
     "ts-jest": "^24.3.0",
     "typescript": "^3.8.3"
