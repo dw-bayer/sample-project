@@ -21,7 +21,7 @@
     "dayjs": "^1.8.25",
     "env-cmd": "^9.0.3",
     "fetch": "^1.1.0",
-    "fetch-mock": "^7.3.6",
+    "fetch-mock": "^9.4.0",
     "geojson": "^0.5.0",
     "informed": "^3.6.1",
     "js-cookie": "^2.2.1",
