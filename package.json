@@ -18,7 +18,7 @@
     "base-64": "^0.1.0",
     "class-transformer": "^0.2.3",
     "classnames": "^2.2.6",
-    "dayjs": "^1.8.25",
+    "dayjs": "^1.8.26",
     "env-cmd": "^10.1.0",
     "fetch": "^1.1.0",
     "fetch-mock": "^9.4.0",
