@@ -57,7 +57,7 @@
     "@types/geojson": "^7946.0.7",
     "@types/jest": "^25.2.1",
     "@types/js-cookie": "^2.2.6",
-    "@types/lodash": "^4.14.151",
+    "@types/lodash": "^4.14.153",
     "@types/material-ui": "^0.21.7",
     "@types/node": "^14.0.1",
     "@types/ramda": "^0.27.4",
